@@ -4,10 +4,10 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 # Telegram bot setup
-API_ID = 123456   # apna API_ID dalna
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
-CHANNEL_USERNAME = "@your_channel"
+API_ID = 12475131
+API_HASH = "719171e38be5a1f500613837b79c536f"
+BOT_TOKEN = "7564571951:AAE6xX7b2wPr6jh2SNV4ZH6EoVJXREuyAU8"
+CHANNEL_USERNAME = "https://t.me/+_BpSWJk8uCthMDZl"
 
 app = Client("url_extractor_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
